@@ -1,0 +1,3 @@
+#!/bin/bash
+source ~/python3-courses/bin/activate
+python ~/git/weather_scraper/wunderground_historical.py
